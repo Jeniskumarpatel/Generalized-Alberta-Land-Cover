@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Final_Assignment
-# Purpose:
-#
-# Author:      jenis
-#
-# Created:     17/08/2023
-# Copyright:   (c) jenis 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 # Import required libraries
 import os
 import sys
